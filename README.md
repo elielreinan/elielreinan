@@ -1,6 +1,6 @@
 # Hi, I'm Eliel 👋
 
-Sou desenvolvedor de software apaixonado por **software, hardware, automação e IA**.
+Sou um desenvolvedor apaixonado por **software, hardware, automação e IA**.
 Sou o criador do
 [OmniOne](https://github.com/elielreinan/omni-one), um plugin/extensão para o
 [OmniRoute](https://github.com/diegosouzapw/OmniRoute), que estende as capacidades da
