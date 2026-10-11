@@ -2,16 +2,15 @@
 
 Sou um desenvolvedor apaixonado por **software, hardware, automação e IA**.
 Sou o criador do
-[OmniOne](https://github.com/elielreinan/omni-one), um plugin/extensão para o
-[OmniRoute](https://github.com/diegosouzapw/OmniRoute), que estende as capacidades da
-ferramenta e deixa o uso do dia a dia mais fluido.
+[OmniOne](https://github.com/elielreinan/omni-one), um controlador compacto para Windows que
+gerencia o servidor do [OmniRoute](https://github.com/diegosouzapw/OmniRoute) e o **Claude Code**
+com um clique, sem depender do terminal.
 
 <!-- Contadores ao vivo (sem arredondamento). -->
 <a href="https://github.com/elielreinan/omni-one/stargazers"><img height="24" src="https://img.shields.io/github/stars/elielreinan/omni-one?style=flat-square&logo=github" alt="OmniOne stars"/></a>
 <a href="https://github.com/elielreinan/omni-one/forks"><img height="24" src="https://img.shields.io/github/forks/elielreinan/omni-one?style=flat-square&logo=github" alt="OmniOne forks"/></a>
 <a href="https://github.com/elielreinan?tab=followers"><img height="24" src="https://img.shields.io/github/followers/elielreinan?style=flat-square&logo=github" alt="GitHub followers"/></a>
 <img height="24" src="https://komarev.com/ghpvc/?username=elielreinan&style=flat-square&label=views&color=555555" alt="profile views"/>
-<a href="https://github.com/elielreinan/omni-one/blob/main/LICENSE"><img height="24" src="https://img.shields.io/github/license/elielreinan/omni-one?style=flat-square" alt="license"/></a>
 
 ## 📌 Featured projects
 
@@ -26,8 +25,9 @@ ferramenta e deixa o uso do dia a dia mais fluido.
     <td width="50%" valign="top">
       <b><a href="https://github.com/elielreinan/omni-one">OmniOne</a></b>
       <a href="https://github.com/elielreinan/omni-one"><img height="18" src="https://img.shields.io/badge/-Public-lightgrey?style=flat-square" alt="Public"/></a><br/>
-      <sub>Plugin/extensão para o OmniRoute: uma camada que estende as capacidades da ferramenta e melhora o fluxo de quem usa no dia a dia.</sub><br/>
-      <img height="18" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square" alt="JavaScript"/>
+      <sub>Controlador para Windows do OmniRoute e do Claude Code: inicia, para e reinicia o servidor, abre o Claude Code no workspace, mostra logs e o dashboard — tudo sem terminal.</sub><br/>
+      <img height="18" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square" alt="Python"/>
+      <img height="18" src="https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square" alt="PowerShell"/>
       <a href="https://github.com/elielreinan/omni-one/stargazers"><img height="18" src="https://img.shields.io/github/stars/elielreinan/omni-one?style=social" alt="stars"/></a>
       <a href="https://github.com/elielreinan/omni-one/forks"><img height="18" src="https://img.shields.io/github/forks/elielreinan/omni-one?style=social" alt="forks"/></a>
     </td>
@@ -40,13 +40,21 @@ ferramenta e deixa o uso do dia a dia mais fluido.
 
 ## What I'm building
 
-O OmniOne nasce da vontade de ir além do que a ferramenta entrega pronto: como plugin do
-OmniRoute, ele adiciona uma camada de funcionalidade focada em **usabilidade** e **performance**,
-para quem usa no dia a dia não precisar de gambiarra para o que deveria ser simples.
+O OmniOne foi criado para **facilitar o uso do OmniRoute para leigos**. Quem não vive de terminal
+costuma se perder entre comandos (`serve`, `stop`, `dashboard`), janelas e atalhos; o OmniOne junta
+tudo em uma janela compacta:
+
+- Inicia o servidor em segundo plano (`omniroute serve --daemon`) e monitora a saúde dele.
+- Confere a versão do Node.js e resolve o comando `omniroute` (PATH, cache do `npx` ou download).
+- Abre o Claude Code no workspace escolhido, via `omniroute launch`.
+- Dá acesso rápido aos logs e ao dashboard, com instalador PowerShell e inicialização automática.
+
+Validado com o OmniRoute 3.8.51. O OmniOne é um invólucro (wrapper): o OmniRoute é obra do
+[Diego Souza](https://github.com/diegosouzapw).
 
 Meu trabalho no momento gira em torno de:
 
-- Estender o ecossistema do OmniRoute com plugins úteis e de fácil instalação.
+- Evoluir o OmniOne e tornar o ecossistema do OmniRoute acessível a quem não usa terminal.
 - Praticar arquitetura de extensões, integração e automação de fluxos.
 - Unir software, hardware e IA em projetos pessoais que vão além da sala de aula.
 
@@ -54,7 +62,7 @@ Meu trabalho no momento gira em torno de:
 
 | Recurso | O que você encontra |
 | --- | --- |
-| [OmniOne](https://github.com/elielreinan/omni-one) | Repositório, instalação e status atual do projeto |
+| [OmniOne](https://github.com/elielreinan/omni-one) | Repositório, instalador (`install_tray_app.ps1`) e guia de uso |
 | [OmniRoute](https://github.com/diegosouzapw/OmniRoute) | A ferramenta que o OmniOne estende |
 
 ## Community
