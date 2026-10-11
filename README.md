@@ -1,6 +1,9 @@
 # Hi, I'm Eliel 👋
 
-Sou um desenvolvedor apaixonado por **software, hardware, automação e IA**.
+Sou um desenvolvedor apaixonado por **software, hardware, automação e IA** e fundador da
+[2E.dev](https://e2dev.me/), uma operação freelance de desenvolvimento de software com foco em
+código organizado, arquitetura clara e entrega de valor — web, APIs, automação e aplicações.
+
 Sou o criador do
 [OmniOne](https://github.com/elielreinan/omni-one), um plugin/extensão para o
 [OmniRoute](https://github.com/diegosouzapw/OmniRoute), que estende as capacidades da
@@ -27,16 +30,48 @@ ferramenta e deixa o uso do dia a dia mais fluido.
       <b><a href="https://github.com/elielreinan/omni-one">OmniOne</a></b>
       <a href="https://github.com/elielreinan/omni-one"><img height="18" src="https://img.shields.io/badge/-Public-lightgrey?style=flat-square" alt="Public"/></a><br/>
       <sub>Plugin/extensão para o OmniRoute: uma camada que estende as capacidades da ferramenta e melhora o fluxo de quem usa no dia a dia.</sub><br/>
-      <img height="18" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square" alt="JavaScript"/>
+      <img height="18" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square" alt="Python"/>
       <a href="https://github.com/elielreinan/omni-one/stargazers"><img height="18" src="https://img.shields.io/github/stars/elielreinan/omni-one?style=social" alt="stars"/></a>
       <a href="https://github.com/elielreinan/omni-one/forks"><img height="18" src="https://img.shields.io/github/forks/elielreinan/omni-one?style=social" alt="forks"/></a>
     </td>
     <td width="50%" valign="top">
-      <b>Mais por vir</b><br/>
-      <sub>Projetos universitários, automações e experimentos pessoais que ainda vou publicar.</sub><br/>
+      <b><a href="https://github.com/elielreinan/notus-revit-plugin">Notus RVT</a></b>
+      <a href="https://github.com/elielreinan/notus-revit-plugin"><img height="18" src="https://img.shields.io/badge/-Public-lightgrey?style=flat-square" alt="Public"/></a><br/>
+      <sub>Plugin para Revit voltado ao cálculo HVAC, integrando recursos de software ao fluxo de projeto.</sub><br/>
+      <a href="https://github.com/elielreinan/notus-revit-plugin/stargazers"><img height="18" src="https://img.shields.io/github/stars/elielreinan/notus-revit-plugin?style=social" alt="stars"/></a>
+      <a href="https://github.com/elielreinan/notus-revit-plugin/forks"><img height="18" src="https://img.shields.io/github/forks/elielreinan/notus-revit-plugin?style=social" alt="forks"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/elielreinan/anime-hub">AnimeZera</a></b>
+      <a href="https://github.com/elielreinan/anime-hub"><img height="18" src="https://img.shields.io/badge/-Public-lightgrey?style=flat-square" alt="Public"/></a><br/>
+      <sub>Plataforma web para descobrir e acompanhar animes: lançamentos, dublados, calendário da temporada, minha lista, feed social com amigos, clãs e ranking.</sub><br/>
+      <img height="18" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square" alt="JavaScript"/>
+      <a href="https://elielreinan.github.io/anime-hub/"><img height="18" src="https://img.shields.io/badge/-Ver%20online-555555?style=flat-square" alt="Ver online"/></a>
+      <a href="https://github.com/elielreinan/anime-hub/stargazers"><img height="18" src="https://img.shields.io/github/stars/elielreinan/anime-hub?style=social" alt="stars"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/elielreinan/in-santos-wallpaper">In Santos</a></b>
+      <a href="https://github.com/elielreinan/in-santos-wallpaper"><img height="18" src="https://img.shields.io/badge/-Public-lightgrey?style=flat-square" alt="Public"/></a><br/>
+      <sub>Papel de parede interativo para Windows (Lively) em estilo arcade retrô: estrada pseudo-3D à beira-mar, céu na hora real, clima, relógio e rádio integrado ao Spotify.</sub><br/>
+      <img height="18" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square" alt="HTML"/>
+      <a href="https://github.com/elielreinan/in-santos-wallpaper#instala%C3%A7%C3%A3o"><img height="18" src="https://img.shields.io/badge/-Ver%20online-555555?style=flat-square" alt="Ver online"/></a>
+      <a href="https://github.com/elielreinan/in-santos-wallpaper/stargazers"><img height="18" src="https://img.shields.io/github/stars/elielreinan/in-santos-wallpaper?style=social" alt="stars"/></a>
     </td>
   </tr>
 </table>
+
+## 🛠️ Stack
+
+<img height="28" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+<img height="28" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img height="28" src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
+<img height="28" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+<img height="28" src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
+<img height="28" src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
+<img height="28" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img height="28" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
 
 ## What I'm building
 
@@ -56,6 +91,10 @@ Meu trabalho no momento gira em torno de:
 | --- | --- |
 | [OmniOne](https://github.com/elielreinan/omni-one) | Repositório, instalação e status atual do projeto |
 | [OmniRoute](https://github.com/diegosouzapw/OmniRoute) | A ferramenta que o OmniOne estende |
+| [Notus RVT](https://github.com/elielreinan/notus-revit-plugin) | Plugin para Revit com cálculo HVAC |
+| [AnimeZera](https://elielreinan.github.io/anime-hub/) | Plataforma de animes, rodando online |
+| [In Santos](https://github.com/elielreinan/in-santos-wallpaper) | Papel de parede interativo: download e instalação |
+| [2E.dev](https://e2dev.me/) | Portfólio, serviços e contato para projetos freelance |
 
 ## Community
 
@@ -72,8 +111,9 @@ Minha paixão e interesse por engenharia da computação e áreas de tecnologia 
 
 ## Connect
 
-- [GitHub](https://github.com/elielreinan)
-- Canais a definir — e-mail e redes sociais em breve.
+- 🌐 Portfólio: [e2dev.me](https://e2dev.me/)
+- 📧 E-mail: [meajuda.2edev@gmail.com](mailto:meajuda.2edev@gmail.com)
+- 💻 [GitHub](https://github.com/elielreinan)
 
 ---
 
