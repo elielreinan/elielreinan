@@ -30,7 +30,7 @@ ferramenta e deixa o uso do dia a dia mais fluido.
       <b><a href="https://github.com/elielreinan/omni-one">OmniOne</a></b>
       <a href="https://github.com/elielreinan/omni-one"><img height="18" src="https://img.shields.io/badge/-Public-lightgrey?style=flat-square" alt="Public"/></a><br/>
       <sub>Plugin/extensão para o OmniRoute: uma camada que estende as capacidades da ferramenta e melhora o fluxo de quem usa no dia a dia.</sub><br/>
-      <img height="18" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square" alt="JavaScript"/>
+      <img height="18" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square" alt="Python"/>
       <a href="https://github.com/elielreinan/omni-one/stargazers"><img height="18" src="https://img.shields.io/github/stars/elielreinan/omni-one?style=social" alt="stars"/></a>
       <a href="https://github.com/elielreinan/omni-one/forks"><img height="18" src="https://img.shields.io/github/forks/elielreinan/omni-one?style=social" alt="forks"/></a>
     </td>
@@ -43,11 +43,6 @@ ferramenta e deixa o uso do dia a dia mais fluido.
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <b><a href="https://elielreinan.github.io/landing-page-branco/">Branco Som</a></b>
-      <img height="18" src="https://img.shields.io/badge/-Landing%20Page-lightgrey?style=flat-square" alt="Landing Page"/><br/>
-      <sub>Landing page direta, responsiva e orientada à presença digital.</sub>
-    </td>
     <td width="50%" valign="top">
       <b>Mais por vir</b><br/>
       <sub>Projetos universitários, automações e experimentos pessoais que ainda vou publicar.</sub>
