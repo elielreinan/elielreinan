@@ -13,7 +13,6 @@ ferramenta e deixa o uso do dia a dia mais fluido.
 <a href="https://github.com/elielreinan/omni-one/stargazers"><img height="24" src="https://img.shields.io/github/stars/elielreinan/omni-one?style=flat-square&logo=github" alt="OmniOne stars"/></a>
 <a href="https://github.com/elielreinan/omni-one/forks"><img height="24" src="https://img.shields.io/github/forks/elielreinan/omni-one?style=flat-square&logo=github" alt="OmniOne forks"/></a>
 <a href="https://github.com/elielreinan?tab=followers"><img height="24" src="https://img.shields.io/github/followers/elielreinan?style=flat-square&logo=github" alt="GitHub followers"/></a>
-<img height="24" src="https://komarev.com/ghpvc/?username=elielreinan&style=flat-square&label=views&color=555555&abbreviated=false" alt="profile views"/>
 <a href="https://github.com/elielreinan/omni-one/blob/main/LICENSE"><img height="24" src="https://img.shields.io/github/license/elielreinan/omni-one?style=flat-square" alt="license"/></a>
 
 ## 📌 Featured projects
@@ -38,8 +37,6 @@ ferramenta e deixa o uso do dia a dia mais fluido.
       <b><a href="https://github.com/elielreinan/notus-revit-plugin">Notus RVT</a></b>
       <a href="https://github.com/elielreinan/notus-revit-plugin"><img height="18" src="https://img.shields.io/badge/-Public-lightgrey?style=flat-square" alt="Public"/></a><br/>
       <sub>Plugin para Revit voltado ao cálculo HVAC, integrando recursos de software ao fluxo de projeto.</sub><br/>
-      <a href="https://github.com/elielreinan/notus-revit-plugin/stargazers"><img height="18" src="https://img.shields.io/github/stars/elielreinan/notus-revit-plugin?style=social&cacheSeconds=3600" alt="stars"/></a>
-      <a href="https://github.com/elielreinan/notus-revit-plugin/forks"><img height="18" src="https://img.shields.io/github/forks/elielreinan/notus-revit-plugin?style=social&cacheSeconds=3600" alt="forks"/></a>
     </td>
   </tr>
   <tr>
@@ -48,16 +45,14 @@ ferramenta e deixa o uso do dia a dia mais fluido.
       <a href="https://github.com/elielreinan/anime-hub"><img height="18" src="https://img.shields.io/badge/-Public-lightgrey?style=flat-square" alt="Public"/></a><br/>
       <sub>Plataforma web para descobrir e acompanhar animes: lançamentos, dublados, calendário da temporada, minha lista, feed social com amigos, clãs e ranking.</sub><br/>
       <img height="18" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square" alt="JavaScript"/>
-      <a href="https://elielreinan.github.io/anime-hub/"><img height="18" src="https://img.shields.io/badge/Ver_online-%E2%86%97-555555?style=flat-square" alt="Ver online"/></a>
-      <a href="https://github.com/elielreinan/anime-hub/stargazers"><img height="18" src="https://img.shields.io/github/stars/elielreinan/anime-hub?style=social&cacheSeconds=3600" alt="stars"/></a>
+      <a href="https://elielreinan.github.io/anime-hub/">🔗 Ver online</a>
     </td>
     <td width="50%" valign="top">
       <b><a href="https://github.com/elielreinan/in-santos-wallpaper">In Santos</a></b>
       <a href="https://github.com/elielreinan/in-santos-wallpaper"><img height="18" src="https://img.shields.io/badge/-Public-lightgrey?style=flat-square" alt="Public"/></a><br/>
       <sub>Papel de parede interativo para Windows (Lively) em estilo arcade retrô: estrada pseudo-3D à beira-mar, céu na hora real, clima, relógio e rádio integrado ao Spotify.</sub><br/>
       <img height="18" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square" alt="HTML"/>
-      <a href="https://github.com/elielreinan/in-santos-wallpaper#instala%C3%A7%C3%A3o"><img height="18" src="https://img.shields.io/badge/Ver_online-%E2%86%97-555555?style=flat-square" alt="Ver online"/></a>
-      <a href="https://github.com/elielreinan/in-santos-wallpaper/stargazers"><img height="18" src="https://img.shields.io/github/stars/elielreinan/in-santos-wallpaper?style=social&cacheSeconds=3600" alt="stars"/></a>
+      <a href="https://github.com/elielreinan/in-santos-wallpaper#instala%C3%A7%C3%A3o">⬇️ Instalar</a>
     </td>
   </tr>
 </table>
