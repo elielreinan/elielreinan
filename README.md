@@ -44,8 +44,20 @@ ferramenta e deixa o uso do dia a dia mais fluido.
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <b>Mais por vir</b><br/>
-      <sub>Projetos universitários, automações e experimentos pessoais que ainda vou publicar.</sub>
+      <b><a href="https://github.com/elielreinan/anime-hub">AnimeZera</a></b>
+      <a href="https://github.com/elielreinan/anime-hub"><img height="18" src="https://img.shields.io/badge/-Public-lightgrey?style=flat-square" alt="Public"/></a><br/>
+      <sub>Plataforma web para descobrir e acompanhar animes: lançamentos, dublados, calendário da temporada, minha lista, feed social com amigos, clãs e ranking.</sub><br/>
+      <img height="18" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square" alt="JavaScript"/>
+      <a href="https://elielreinan.github.io/anime-hub/"><img height="18" src="https://img.shields.io/badge/-Ver%20online-555555?style=flat-square" alt="Ver online"/></a>
+      <a href="https://github.com/elielreinan/anime-hub/stargazers"><img height="18" src="https://img.shields.io/github/stars/elielreinan/anime-hub?style=social" alt="stars"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/elielreinan/in-santos-wallpaper">In Santos</a></b>
+      <a href="https://github.com/elielreinan/in-santos-wallpaper"><img height="18" src="https://img.shields.io/badge/-Public-lightgrey?style=flat-square" alt="Public"/></a><br/>
+      <sub>Papel de parede interativo para Windows (Lively) em estilo arcade retrô: estrada pseudo-3D à beira-mar, céu na hora real, clima, relógio e rádio integrado ao Spotify.</sub><br/>
+      <img height="18" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square" alt="HTML"/>
+      <a href="https://github.com/elielreinan/in-santos-wallpaper#instala%C3%A7%C3%A3o"><img height="18" src="https://img.shields.io/badge/-Ver%20online-555555?style=flat-square" alt="Ver online"/></a>
+      <a href="https://github.com/elielreinan/in-santos-wallpaper/stargazers"><img height="18" src="https://img.shields.io/github/stars/elielreinan/in-santos-wallpaper?style=social" alt="stars"/></a>
     </td>
   </tr>
 </table>
@@ -80,6 +92,8 @@ Meu trabalho no momento gira em torno de:
 | [OmniOne](https://github.com/elielreinan/omni-one) | Repositório, instalação e status atual do projeto |
 | [OmniRoute](https://github.com/diegosouzapw/OmniRoute) | A ferramenta que o OmniOne estende |
 | [Notus RVT](https://github.com/elielreinan/notus-revit-plugin) | Plugin para Revit com cálculo HVAC |
+| [AnimeZera](https://elielreinan.github.io/anime-hub/) | Plataforma de animes, rodando online |
+| [In Santos](https://github.com/elielreinan/in-santos-wallpaper) | Papel de parede interativo: download e instalação |
 | [2E.dev](https://e2dev.me/) | Portfólio, serviços e contato para projetos freelance |
 
 ## Community
